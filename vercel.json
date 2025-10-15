@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    {"source": "https://frank.smoothsailingri.com/:path*", "destination": "https://frankdenette.com/:path*", "permanent": false}
+  ]
+}
